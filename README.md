@@ -1,1 +1,1 @@
-# Prediksi Diabetes menggunakan Naive Bayes
+Prediksi Diabetes menggunakan Naive Bayes
